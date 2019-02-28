@@ -1,0 +1,8 @@
+{
+    "body": "{\"teamName\":\"testTeam05\",\"seasonId\":\"testSeason01\"}",
+    "requestContext": {
+      "identity": {
+        "cognitoIdentityId": "USER-SUB-1234"
+      }
+    }
+  }
