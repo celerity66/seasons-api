@@ -1,7 +1,7 @@
 {
-    "body": "{\"teamName\":\"team 01 updated\",\"seasonId\":\"testSeason01\"}",
+    "body": "{\"seasonName\":\"testSeason02\"}",
     "pathParameters": {
-      "id": "e8cb2420-3af0-11e9-83dc-371804712e35"
+      "id": "9aa5f9f0-3b72-11e9-b3c9-296e961a925c"
     },
     "requestContext": {
       "identity": {
