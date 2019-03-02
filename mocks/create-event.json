@@ -1,5 +1,5 @@
 {
-    "body": "{\"seasonName\":\"testSeason01\"}",
+    "body": "{\"seasonName\":\"testSeason03\"}",
     "requestContext": {
       "identity": {
         "cognitoIdentityId": "USER-SUB-1234"
